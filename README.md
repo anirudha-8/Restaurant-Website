@@ -6,7 +6,7 @@
 
 This project is a fully responsive restaurant website designed to showcase a food company's menu, services, and unique offerings.
 
-## Link -> **[View Project](#)** (Replace with actual link)
+## Link -> **[View Project](https://anirudha-8.github.io/Restaurant-Website/)**
 
 ## Project Overview
 
