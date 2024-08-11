@@ -11,12 +11,9 @@
 *,
 *::before,
 *::after {
-	box-sizing: border-box;
-}
-
-* {
 	margin: 0;
 	padding: 0;
+	box-sizing: border-box;
 }
 
 html {
@@ -139,7 +136,6 @@ p {
 
 /* FEATURE SECTION STYLING */
 .features-container {
-	margin: 2rem 0;
 }
 
 .feature {
@@ -237,6 +233,10 @@ h3 {
 	.feature-content p {
 		font-size: 1.1rem;
 		text-align: left;
+	}
+	.feature-icon {
+		margin-top: 3rem;
+		margin-left: -15rem;
 	}
 }
 
