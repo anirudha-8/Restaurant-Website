@@ -55,7 +55,7 @@ To view the project locally:
 2. Navigate to the project directory:
 
     ```bash
-    cd src
+    cd "Restaurant Website"
     ```
 
 3. Open `index.html` in your web browser.
@@ -65,7 +65,9 @@ To view the project locally:
 Some potential enhancements include:
 
 - Adding an online ordering system with a shopping cart and checkout functionality.
+
 - Integrating a reservation system for table bookings.
+
 - Expanding the menu section to include detailed descriptions, pricing, and customer reviews.
 
 ---
